@@ -1,0 +1,6 @@
+实现了一个简易的bloom过滤器
+
+创建了数据结构 bitmap
+hash算法使用了murmur3
+
+使用方法见对应的test文件
